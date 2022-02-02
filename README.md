@@ -1,7 +1,6 @@
-<div align="center" style="display: flex !important;">
-    <h1>Lucas<br>
-    <span style="color: blue;">Gonçalves</span><h1>
-    <img width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" />
+<div align="center" >
+   <img width="400" alt="personal info image" src="https://raw.githubusercontent.com/lucas2502/lucas2502/main/about.gif" />
+    <img width="400" alt="working gif" src="https://raw.githubusercontent.com/lucas2502/lucas2502/main/working.gif" />
 </div>
       
 <div align="center">
@@ -22,7 +21,7 @@
   
 </ul>
   
-### Skills
+### Strong skills
 <div style="display: inline_block"  >
 <div align="center">
     <img height="40" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
