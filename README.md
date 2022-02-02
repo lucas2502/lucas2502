@@ -1,9 +1,9 @@
-<div align="center" >
-    <img style="padding-top: 0px" width="400" alt="personal info image" src="https://raw.githubusercontent.com/lucas2502/lucas2502/main/about.png" />
-    <img width="400" alt="working gif" src="https://raw.githubusercontent.com/lucas2502/lucas2502/main/working.gif" />
+<div align="center">
+    <img height="300" width="400" alt="personal info image" src="https://raw.githubusercontent.com/lucas2502/lucas2502/main/about.png" />
+    <img height="300" width="400" alt="working gif" src="https://raw.githubusercontent.com/lucas2502/lucas2502/main/working.gif" />
 </div>
-      
-<div align="center" style="margin-top: 20px !important">
+   
+<div align="center">
   <a href="https://github.com/lucas2502">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas2502&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas2502&layout=compact&langs_count=7&theme=dark"/>
